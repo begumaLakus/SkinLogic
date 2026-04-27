@@ -74,7 +74,7 @@ We don't just provide a score. The "Why this score?" feature breaks down the log
 This project represents a synthesis of aesthetic design and rigorous software engineering. Due to proprietary architectural designs, the source code remains **private**.
 
 **For Technical Inquiries or Demo Requests:**
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/begumalakus/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/begumaLakus%C5%9F/)
 [![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:begumalakus@example.com)
 
 ---
